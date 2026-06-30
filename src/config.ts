@@ -45,8 +45,8 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		{
-			name: "GitHub",
-			url: "https://github.com/cristiano7977", // Internal links should not include the base path, as it is automatically added
+			name: "LOFTER",
+			url: "https://cristiano797.lofter.com", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
@@ -58,9 +58,9 @@ export const profileConfig: ProfileConfig = {
 	bio: "讨厌你，恨你，好爱你。",
 	links: [
 		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/cristiano7977",
+			name: "LOFTER",
+			icon: "fa6-solid:link",
+			url: "https://cristiano797.lofter.com",
 		},
 	],
 };
