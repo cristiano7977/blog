@@ -8,6 +8,8 @@ category: 超炮
 draft: false
 ---
 
+<p class="text-sm text-black/50 dark:text-white/50">图片出处：pixiv画师幼鲤鲤。</p>
+
 　　*新人入坑
 
 　　*文笔不好，请多包涵
