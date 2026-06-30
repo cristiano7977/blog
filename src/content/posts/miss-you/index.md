@@ -3,6 +3,7 @@ title: 有点想你
 published: 2021-03-31
 description: 随便写的千字小短文。
 image: ./cover.jpg
+sourceUrl: https://cristiano797.lofter.com/post/204aa690_1cbd4b409?incantation=rz9c1D0Ea1nu
 tags: [蜂琴, 琴蜂, 御坂美琴, 食蜂操祈]
 category: 超炮
 draft: false

@@ -3,6 +3,7 @@ title: 控制毁灭
 published: 2021-03-30
 description: 我的第一篇同人二创。
 image: ./cover.jpg
+sourceUrl: https://cristiano797.lofter.com/post/204aa690_1cbd30928?incantation=rzH10YntL5g7
 tags: [蜂琴, 琴蜂, 御坂美琴, 食蜂操祈]
 category: 超炮
 draft: false

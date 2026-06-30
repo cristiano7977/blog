@@ -3,6 +3,7 @@ title: ALL女局 失忆症
 published: 2022-12-14
 description: 失去记忆后遇到游戏里的角色怎么办？！
 image: ./cover.jpg
+sourceUrl: https://cristiano797.lofter.com/post/204aa690_2b78f0a4a?incantation=rzGhU74zInRQ
 tags: [无期迷途女局长, all女局]
 category: 无期迷途
 draft: false

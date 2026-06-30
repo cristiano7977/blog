@@ -3,6 +3,7 @@ title: 沉溺（上）
 published: 2022-01-18
 description: abo随笔，琴a蜂o。
 image: ./cover.jpg
+sourceUrl: https://cristiano797.lofter.com/post/204aa690_2b468caa7?incantation=rzgKSYDR0zwy
 tags: [蜂琴, 琴蜂, 御坂美琴, 食蜂操祈]
 category: 超炮
 draft: false
