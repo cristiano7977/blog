@@ -1,9 +1,40 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+  可以称呼为米塔/止戈/D/裴珩，全是朋友的称呼，我也不知道咋来的名字。
 
-::github{repo="saicaca/fuwari"}
+  我推/厨：
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+  宵崎奏，御坂美琴，韩振，千早爱音，丰川祥子。
+
+
+  关于烤🔥:
+
+  mfkn、enkn、类宁、彰骨/彰杏、冬豆，日野森骨。
+
+  基本上烤bg/gl都能捡一口，主嬷knd。
+
+  
+
+  关于邦🎹:
+
+  鸡狗all爱音，较偏爱爱祥，完全只接受爱系cp。
+
+  老团兰友希，lsyk，ykn右位基本都能吃。
+
+  
+
+  其余bg/gl/bl:
+
+  柯哀、空荧、过芙、蜂琴、羡澄、菡颖…等想到再补。
+
+  基本是gl≥bg＞＞bl。
+
+  非百合作的话，基本推谁all谁，男女不忌。
+
+  
+
+  绝对NG:
+
+  mfen、杨龙、忘羡、新兰。
+
+  天雷韩振所有cp，本人是铁血毒唯。
+
+  以及鸡狗爱系外任何cp。
