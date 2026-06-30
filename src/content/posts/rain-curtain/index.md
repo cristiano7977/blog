@@ -3,6 +3,7 @@ title: 蜂琴-雨幕
 published: 2023-02-14
 description: 倘若我一直在等你呢？
 image: ./cover.jpg
+sourceUrl: https://cristiano797.lofter.com/post/204aa690_2b84e2554?incantation=rzhYikNTpTXG
 tags: [蜂琴, 琴蜂, 御坂美琴, 食蜂操祈]
 category: 超炮
 draft: false

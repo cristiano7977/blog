@@ -3,6 +3,7 @@ title: 失忆症2
 published: 2022-12-17
 description: 失去记忆后遇到游戏里的角色怎么办？！
 image: ./cover.jpg
+sourceUrl: https://cristiano797.lofter.com/post/204aa690_2b795899f?incantation=rzSaAw3qBBSj
 tags: [无期迷途女局长, all女局]
 category: 无期迷途
 draft: false
